@@ -18,6 +18,15 @@ A Web3-enabled React application that allows users to connect Ethereum wallets a
 - Viem
 - TanStack React Query
 
+## 📸 Screenshots
+
+### Wallet Not Connected
+![Wallet Not Connected](./src/screenshots/NotConnected.png)
+
+### Wallet Connected
+![Wallet Connected](./src/screenshots/Connected.png)
+
+
 ## ⚙️ Setup
 
 git clone https://github.com/SalongDb/React-WEB3-wallet.git
