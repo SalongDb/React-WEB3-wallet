@@ -26,6 +26,8 @@ A Web3-enabled React application that allows users to connect Ethereum wallets a
 ### Wallet Connected
 ![Wallet Connected](./src/screenshots/Connected.png)
 
+## 🔗 Live Demo
+https://react-web-3-wallet.vercel.app/
 
 ## ⚙️ Setup
 
