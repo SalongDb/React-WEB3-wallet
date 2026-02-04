@@ -59,7 +59,7 @@ function WalletOptions() {
         <div className="paragraphs">
             <p>ADDRESS : {address}</p>
             <p>NETWORK : {chain?.name || 'Not Connected'}</p>
-            <p>CHAIN : {isLoading ? "Loading..." : `${data?.formatted ?? "0"} ${data?.symbol ?? "ETH"}`}</p>
+            <p>BALANCE : {isLoading ? "Loading..." : `${data?.formatted ?? "0"} ${data?.symbol ?? "ETH"}`}</p>
         </div>
 
         <div className="buttons">
